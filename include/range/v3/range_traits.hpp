@@ -40,7 +40,10 @@ namespace ranges
         using range_difference_t = concepts::Range::difference_t<Rng>;
 
         template<typename Rng>
-        using range_size_t = meta::_t<std::make_unsigned<range_difference_t<Rng>>>;
+        using range_size_t = meta::_t<meta::if_c<
+            (bool) SizedRange<Rng>(),
+            meta::defer<concepts::SizedRange::size_t, Rng>,
+            std::make_unsigned<range_difference_t<Rng>>>>;
 
         template<typename Rng>
         using range_value_t = concepts::InputRange::value_t<Rng>;
