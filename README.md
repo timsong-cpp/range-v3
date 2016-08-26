@@ -13,7 +13,7 @@ Range v3 forms the basis of a proposal to add range support to the standard libr
 Documentation:
 --------------
 
-Check out the (woefully incomplete) documentation [here](https://ericniebler.github.io/range-v3/).
+Check out the (woefully incomplete) documentation [here](https://timsong-cpp.github.io/range-v3/).
 
 Other resources (mind the dates, the library probably has changed since then):
 
