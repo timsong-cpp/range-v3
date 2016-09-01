@@ -104,14 +104,14 @@ Public Member Functions</h2></td></tr>
 template&lt;typename R , typename... Args&gt; </td></tr>
 <tr class="memitem:a11d589f38ceff03a8cef98ae2617235b"><td class="memTemplItemLeft" align="right" valign="top">constexpr ptr_fn_&lt; R, Args... &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><b>operator()</b> (R(*p)(Args...)) const </td></tr>
 <tr class="separator:a11d589f38ceff03a8cef98ae2617235b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96e7cab21dc56ce997837951110c98d9"><td class="memTemplParams" colspan="2"><a class="anchor" id="a96e7cab21dc56ce997837951110c98d9"></a>
+<tr class="memitem:a603eb159238d227c2d4fcc602f75c05a"><td class="memTemplParams" colspan="2"><a class="anchor" id="a603eb159238d227c2d4fcc602f75c05a"></a>
 template&lt;typename R , typename T &gt; </td></tr>
-<tr class="memitem:a96e7cab21dc56ce997837951110c98d9"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><b>operator()</b> (R T::*p) const  -&gt; decltype(_mem_fn(p))                                        </td></tr>
-<tr class="separator:a96e7cab21dc56ce997837951110c98d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0f2a225a481dd23f7c7222faf86f4c09"><td class="memTemplParams" colspan="2"><a class="anchor" id="a0f2a225a481dd23f7c7222faf86f4c09"></a>
+<tr class="memitem:a603eb159238d227c2d4fcc602f75c05a"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><b>operator()</b> (R T::*p) const -&gt; decltype(_mem_fn(p))</td></tr>
+<tr class="separator:a603eb159238d227c2d4fcc602f75c05a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b97092425aa3e7e0136fba1663a24d2"><td class="memTemplParams" colspan="2"><a class="anchor" id="a1b97092425aa3e7e0136fba1663a24d2"></a>
 template&lt;typename T , typename U  = detail::decay_t&lt;T&gt;&gt; </td></tr>
-<tr class="memitem:a0f2a225a481dd23f7c7222faf86f4c09"><td class="memTemplItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memTemplItemRight" valign="bottom"><b>operator()</b> (T &amp;&amp;t) const  -&gt; <a class="el" href="group__logical.html#ga76df8db18745b53e01c1f79dd3aa7ea7">meta::if_c</a>&lt;!std::is_pointer&lt; U &gt;::value &amp;&amp;!std::is_member_pointer&lt; U &gt;::value, T &gt;                                        </td></tr>
-<tr class="separator:a0f2a225a481dd23f7c7222faf86f4c09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b97092425aa3e7e0136fba1663a24d2"><td class="memTemplItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memTemplItemRight" valign="bottom"><b>operator()</b> (T &amp;&amp;t) const -&gt; <a class="el" href="group__logical.html#ga76df8db18745b53e01c1f79dd3aa7ea7">meta::if_c</a>&lt;!std::is_pointer&lt; U &gt;::value &amp;&amp;!std::is_member_pointer&lt; U &gt;::value, T &gt;</td></tr>
+<tr class="separator:a1b97092425aa3e7e0136fba1663a24d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->

@@ -2,11 +2,11 @@ var namespacemeta =
 [
     [ "detail", null, [
       [ "count_", "structmeta_1_1detail_1_1count__.html", null ],
-      [ "count_< list< List... >, T >", "structmeta_1_1detail_1_1count___3_01list_3_01_list_8_8_8_01_4_00_01_t_01_4.html", "structmeta_1_1detail_1_1count___3_01list_3_01_list_8_8_8_01_4_00_01_t_01_4" ],
-      [ "count_< list<>, T >", "structmeta_1_1detail_1_1count___3_01list_3_4_00_01_t_01_4.html", "structmeta_1_1detail_1_1count___3_01list_3_4_00_01_t_01_4" ],
+      [ "count_< list< List... >, T >", "structmeta_1_1detail_1_1count___3_01list_3_01List_8_8_8_01_4_00_01T_01_4.html", "structmeta_1_1detail_1_1count___3_01list_3_01List_8_8_8_01_4_00_01T_01_4" ],
+      [ "count_< list<>, T >", "structmeta_1_1detail_1_1count___3_01list_3_4_00_01T_01_4.html", "structmeta_1_1detail_1_1count___3_01list_3_4_00_01T_01_4" ],
       [ "count_if_", "structmeta_1_1detail_1_1count__if__.html", null ],
-      [ "count_if_< list< List... >, Fn,                                                                                                                                                                                                                   void_< integer_sequence< bool, bool(invoke< Fn, List >::type::value)... > >", "structmeta_1_1detail_1_1count__if___3_01list_3_01_list_8_8_8_01_4_00_01_fn_00_01_01_01_01_01_01_1ec2ef8e3d0b3ae28a96f2f7db725ad9.html", "structmeta_1_1detail_1_1count__if___3_01list_3_01_list_8_8_8_01_4_00_01_fn_00_01_01_01_01_01_01_1ec2ef8e3d0b3ae28a96f2f7db725ad9" ],
-      [ "count_if_< list<>, Fn >", "structmeta_1_1detail_1_1count__if___3_01list_3_4_00_01_fn_01_4.html", "structmeta_1_1detail_1_1count__if___3_01list_3_4_00_01_fn_01_4" ]
+      [ "count_if_< list< List... >, Fn, void_< integer_sequence< bool, bool(invoke< Fn, List >::type::value)... > >", "structmeta_1_1detail_1_1count__if___3_01list_3_01List_8_8_8_01_4_00_01Fn_00_01void___3_01integer69b11ed65a051125e045c3bb435ea8f4.html", "structmeta_1_1detail_1_1count__if___3_01list_3_01List_8_8_8_01_4_00_01Fn_00_01void___3_01integer69b11ed65a051125e045c3bb435ea8f4" ],
+      [ "count_if_< list<>, Fn >", "structmeta_1_1detail_1_1count__if___3_01list_3_4_00_01Fn_01_4.html", "structmeta_1_1detail_1_1count__if___3_01list_3_4_00_01Fn_01_4" ]
     ] ],
     [ "extension", "namespacemeta_1_1extension.html", "namespacemeta_1_1extension" ],
     [ "v1", null, [
@@ -25,8 +25,8 @@ var namespacemeta =
     [ "bind_back", "structmeta_1_1bind__back.html", "structmeta_1_1bind__back" ],
     [ "bind_front", "structmeta_1_1bind__front.html", "structmeta_1_1bind__front" ],
     [ "compose", "structmeta_1_1compose.html", null ],
-    [ "compose< F0 >", "structmeta_1_1compose_3_01_f0_01_4.html", "structmeta_1_1compose_3_01_f0_01_4" ],
-    [ "compose< F0, Fs... >", "structmeta_1_1compose_3_01_f0_00_01_fs_8_8_8_01_4.html", "structmeta_1_1compose_3_01_f0_00_01_fs_8_8_8_01_4" ],
+    [ "compose< F0 >", "structmeta_1_1compose_3_01F0_01_4.html", "structmeta_1_1compose_3_01F0_01_4" ],
+    [ "compose< F0, Fs... >", "structmeta_1_1compose_3_01F0_00_01Fs_8_8_8_01_4.html", "structmeta_1_1compose_3_01F0_00_01Fs_8_8_8_01_4" ],
     [ "defer", "structmeta_1_1defer.html", null ],
     [ "defer_i", "structmeta_1_1defer__i.html", null ],
     [ "flip", "structmeta_1_1flip.html", "structmeta_1_1flip" ],

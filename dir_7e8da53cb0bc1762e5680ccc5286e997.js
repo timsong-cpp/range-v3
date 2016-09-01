@@ -32,6 +32,6 @@ var dir_7e8da53cb0bc1762e5680ccc5286e997 =
     [ "tuple_algorithm.hpp", "tuple__algorithm_8hpp.html", "tuple__algorithm_8hpp" ],
     [ "unreachable.hpp", "unreachable_8hpp.html", null ],
     [ "variant.hpp", "variant_8hpp.html", [
-      [ "indexed_datum< T[N], Index >", "structranges_1_1v3_1_1detail_1_1indexed__datum_3_01_t[_n]_00_01_index_01_4.html", "structranges_1_1v3_1_1detail_1_1indexed__datum_3_01_t[_n]_00_01_index_01_4" ]
+      [ "indexed_datum< T[N], Index >", "structranges_1_1v3_1_1detail_1_1indexed__datum_3_01T[N]_00_01Index_01_4.html", "structranges_1_1v3_1_1detail_1_1indexed__datum_3_01T[N]_00_01Index_01_4" ]
     ] ]
 ];

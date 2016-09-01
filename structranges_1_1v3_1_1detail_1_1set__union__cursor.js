@@ -2,8 +2,8 @@ var structranges_1_1v3_1_1detail_1_1set__union__cursor =
 [
     [ "done", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#a65d33f51bdcace68d66af645ba4f1298", null ],
     [ "equal", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#a683a765d9cfdeb01722f649ae6e6f132", null ],
-    [ "get", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#ae8495c5ca79cb30b2ca4dd560bb2a550", null ],
-    [ "move", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#ad7151e1669a8c9fc0b8742e4355799fa", null ],
+    [ "get", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#a6d1c12e8849f3478086a91c78ba0f07a", null ],
+    [ "move", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#a60096249f17fba85cc130fe73f23b2ee", null ],
     [ "next", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#ab715d2dd5c0c37cb9fb8050830ce74a3", null ],
     [ "reference_type", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#afec7145265a1e762adeffdb3d2d8f708", null ],
     [ "rvalue_reference_type", "structranges_1_1v3_1_1detail_1_1set__union__cursor.html#a36c5b6ffb1bfe5c2201c79a2f695dece", null ],

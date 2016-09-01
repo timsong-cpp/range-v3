@@ -1,11 +1,11 @@
 var functional_8hpp =
 [
-    [ "Callable", "structranges_1_1v3_1_1concepts_1_1_callable.html", "structranges_1_1v3_1_1concepts_1_1_callable" ],
-    [ "CallablePredicate", "structranges_1_1v3_1_1concepts_1_1_callable_predicate.html", "structranges_1_1v3_1_1concepts_1_1_callable_predicate" ],
-    [ "CallableRelation", "structranges_1_1v3_1_1concepts_1_1_callable_relation.html", "structranges_1_1v3_1_1concepts_1_1_callable_relation" ],
-    [ "RegularCallable", "structranges_1_1v3_1_1concepts_1_1_regular_callable.html", null ],
+    [ "Callable", "structranges_1_1v3_1_1concepts_1_1Callable.html", "structranges_1_1v3_1_1concepts_1_1Callable" ],
+    [ "CallablePredicate", "structranges_1_1v3_1_1concepts_1_1CallablePredicate.html", "structranges_1_1v3_1_1concepts_1_1CallablePredicate" ],
+    [ "CallableRelation", "structranges_1_1v3_1_1concepts_1_1CallableRelation.html", "structranges_1_1v3_1_1concepts_1_1CallableRelation" ],
+    [ "RegularCallable", "structranges_1_1v3_1_1concepts_1_1RegularCallable.html", null ],
     [ "impl", "structranges_1_1v3_1_1pipeable__access_1_1impl.html", null ],
-    [ "impl< Pipeable & >", "structranges_1_1v3_1_1pipeable__access_1_1impl_3_01_pipeable_01_6_01_4.html", null ],
+    [ "impl< Pipeable & >", "structranges_1_1v3_1_1pipeable__access_1_1impl_3_01Pipeable_01_6_01_4.html", null ],
     [ "Callable", "functional_8hpp.html#gacb28d17846c271166dcee181c22ca032", null ],
     [ "CallablePredicate", "functional_8hpp.html#ga262574fc00e4717f6c6dd7d967e77bc6", null ],
     [ "CallableRelation", "functional_8hpp.html#ga757a7229d8e6e55d4e952a5aa67ff9a3", null ],
