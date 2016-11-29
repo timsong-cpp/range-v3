@@ -141,7 +141,7 @@ var group__group_algorithms =
     ] ],
     [ "max_fn", "structranges_1_1v3_1_1max__fn.html", [
       [ "operator()", "structranges_1_1v3_1_1max__fn.html#a69c94b2aa55ba40256f1eca5ce4f54de", null ],
-      [ "operator()", "structranges_1_1v3_1_1max__fn.html#af979941140c4c8e80159b740af248894", null ]
+      [ "operator()", "structranges_1_1v3_1_1max__fn.html#a746579e7b42ddf28fa4c2880becb52ac", null ]
     ] ],
     [ "merge_fn", "structranges_1_1v3_1_1merge__fn.html", [
       [ "operator()", "structranges_1_1v3_1_1merge__fn.html#ab7f320bed366bd58a6d2a50fd3f89765", null ],
@@ -153,7 +153,7 @@ var group__group_algorithms =
     ] ],
     [ "min_fn", "structranges_1_1v3_1_1min__fn.html", [
       [ "operator()", "structranges_1_1v3_1_1min__fn.html#a8a812108c650a070d9ff1f0c62c2f28b", null ],
-      [ "operator()", "structranges_1_1v3_1_1min__fn.html#a3d39090f0ad5e96cbbf0394fded1420f", null ]
+      [ "operator()", "structranges_1_1v3_1_1min__fn.html#a304a6fd875d5afef78b5a865a2fb586f", null ]
     ] ],
     [ "minmax_element_fn", "structranges_1_1v3_1_1minmax__element__fn.html", [
       [ "operator()", "structranges_1_1v3_1_1minmax__element__fn.html#ac524b74c13c509d768b9e64518577c0e", null ],
@@ -161,7 +161,7 @@ var group__group_algorithms =
     ] ],
     [ "minmax_fn", "structranges_1_1v3_1_1minmax__fn.html", [
       [ "operator()", "structranges_1_1v3_1_1minmax__fn.html#a0a55a048c0b4db1a08e9731d7dc5f2c6", null ],
-      [ "operator()", "structranges_1_1v3_1_1minmax__fn.html#acea9185342f851da938c5492ea0925dc", null ]
+      [ "operator()", "structranges_1_1v3_1_1minmax__fn.html#ae5fbe6a07ade9118fa9b0c66bf861acc", null ]
     ] ],
     [ "mismatch_fn", "structranges_1_1v3_1_1mismatch__fn.html", [
       [ "operator()", "structranges_1_1v3_1_1mismatch__fn.html#a8f6d2440669035b75652295320705e01", null ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['end',['end',['../structranges_1_1v3_1_1bounded__view.html#ae0c1e29d87c7eca86f8e4e08c9760f97',1,'ranges::v3::bounded_view::end()'],['../structranges_1_1v3_1_1tail__view.html#ae542c206171c76a13f755d72775a0926',1,'ranges::v3::tail_view::end()'],['../structranges_1_1v3_1_1view__facade.html#a937894cb412a8545ff121141adc3e77e',1,'ranges::v3::view_facade::end()']]]
+  ['front',['front',['../structranges_1_1v3_1_1view__interface.html#a47ed8cb05655b871a52f68d7c5b1b966',1,'ranges::v3::view_interface::front()'],['../structranges_1_1v3_1_1view__interface.html#a5331e333db087bc4ecb93defc852c0da',1,'ranges::v3::view_interface::front() const ']]]
 ];

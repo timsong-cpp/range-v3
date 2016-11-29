@@ -27,18 +27,20 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"copy__n_8hpp.html#gad0ff6ff9614ff9a244e7f8cd052b7382",
-"group__group-concepts.html#gac3de29984e30e1f48c4064edc9ce2efc",
-"group__lazy__math.html#gaf1da11678b66429e1e05b9b2360f7344",
-"iterator__range_8hpp.html#gaf295cac4cc679ca932ce873fbbcbc806",
-"none__of_8hpp.html",
-"structranges_1_1v3_1_1action_1_1shuffle__fn.html#afa491db51f09edb2b975d6c2dd2046d3",
-"structranges_1_1v3_1_1concepts_1_1BidirectionalIncrementable.html#a24f13f96661e7183530a69a5e9947038",
-"structranges_1_1v3_1_1difference__type_3_01T_01const_01_01_4.html",
-"structranges_1_1v3_1_1iter__zip__with__view.html#a1fbee39dd7880261cc016a232604a312",
-"structranges_1_1v3_1_1reference__wrapper.html#a98337506db44e6db8174eacc4a3a4ab7",
-"structranges_1_1v3_1_1view_1_1adjacent__remove__if__fn.html#a56682c193c92d32081d6b8ede7c76bbf",
-"structstd_1_1tuple__element_3_011_00_1_1ranges_1_1v3_1_1common__pair_3_01First_00_01Second_01_4_01_4.html#af7ad6399d41d474fee2fad5dc20da788"
+"copy__if_8hpp.html",
+"group__group-concepts.html#gaa6ee4046dceab8ae0d1264fb9b34068d",
+"group__lazy__math.html#ga6639f19bdf3a3ed8b1ba7f1a2f3266c3",
+"iterator__concepts_8hpp.html#gade89ba36e6d57767b36092e8d73b9737",
+"minmax__element_8hpp.html",
+"structboost_1_1range__const__iterator_3_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_1_d9cda7ce3bba93ca6c8f02a740998492.html#a439cd39a5ecaee93fb6226834abb85ca",
+"structboost_1_1range__value_3_01_1_1ranges_1_1v3_1_1partial__sum__view_3_01_ts_8_8_8_01_4_01_4.html#a54833a316c3af25094a2be241c2c198c",
+"structranges_1_1v3_1_1aux_1_1copy__fn.html#a217674e42c55b8a9c369ef08a6677480",
+"structranges_1_1v3_1_1concepts_1_1_weakly_incrementable.html#ac8d3967dfce976162d4640fa68f5504e",
+"structranges_1_1v3_1_1ident.html#a75bfa5b391028567fea9e6f83ed71d85",
+"structranges_1_1v3_1_1mutable___3_01std_1_1atomic_3_01_t_01_4_01_4.html#a846b0bbd85a85d99869e3631601a7001",
+"structranges_1_1v3_1_1sort__fn.html",
+"structranges_1_1v3_1_1view_1_1stride__fn.html",
+"view_2set__algorithm_8hpp.html#a995e1a1052c157ce80a81db4ff723fda"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

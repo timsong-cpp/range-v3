@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['indexed_5fdatum',['indexed_datum',['../structranges_1_1v3_1_1detail_1_1indexed__datum_3_01T[N]_00_01Index_01_4.html#a61a4c511b044c42e05775931725616e7',1,'ranges::v3::detail::indexed_datum&lt; T[N], Index &gt;::indexed_datum(meta::nil_={})'],['../structranges_1_1v3_1_1detail_1_1indexed__datum_3_01T[N]_00_01Index_01_4.html#ae0836d50c90725125f2494a4ee7993cf',1,'ranges::v3::detail::indexed_datum&lt; T[N], Index &gt;::indexed_datum(indexed_datum &amp;&amp;that)'],['../structranges_1_1v3_1_1detail_1_1indexed__datum_3_01T[N]_00_01Index_01_4.html#ae3ec1baebe46c4d65d3e0a8381e8a267',1,'ranges::v3::detail::indexed_datum&lt; T[N], Index &gt;::indexed_datum(indexed_datum const &amp;that)']]]
+  ['logical_5fnegate_5f',['logical_negate_',['../structranges_1_1v3_1_1logical__negate__.html#aa927d8ac2242bd5e21c6a0cd4d1e94de',1,'ranges::v3::logical_negate_']]]
 ];

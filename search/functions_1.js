@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['advance',['advance',['../structranges_1_1v3_1_1chunk__view_1_1adaptor.html#a6552348e82f4b1e942c58ad8f9b5d475',1,'ranges::v3::chunk_view::adaptor::advance()'],['../group__group-views.html#ga67b9c328efd3d2b06045a291d7f05c5e',1,'ranges::v3::intersperse_view::cursor_adaptor::advance()']]],
-  ['any_5fcast',['any_cast',['../any_8hpp.html#afda8e2746ff203bca10bd6397b3a861b',1,'ranges::v3::any_cast(any &amp;)'],['../any_8hpp.html#aea6bf5bfffcc7871ecc5517896056287',1,'ranges::v3::any_cast(any const &amp;)'],['../any_8hpp.html#aa43f09207b1f525822914b447abfad46',1,'ranges::v3::any_cast(any &amp;&amp;)'],['../any_8hpp.html#ac07e28d0e22785413a521ed51954919e',1,'ranges::v3::any_cast(any *) noexcept'],['../any_8hpp.html#a74e3074a52acd25a17f421a37f2d108e',1,'ranges::v3::any_cast(any const *) noexcept']]]
+  ['back',['back',['../structranges_1_1v3_1_1view__interface.html#a63803c5324ee40459599def14354adb8',1,'ranges::v3::view_interface::back()'],['../structranges_1_1v3_1_1view__interface.html#afbb8ae6445b052df59f08f855224b53c',1,'ranges::v3::view_interface::back() const ']]],
+  ['base',['base',['../structranges_1_1v3_1_1view__adaptor.html#af51534a5520e83e5da8543aa30be6bb8',1,'ranges::v3::view_adaptor']]],
+  ['basic_5fmixin',['basic_mixin',['../structranges_1_1v3_1_1basic__mixin.html#a4318d049f3fabf7a82133377ead0e4c4',1,'ranges::v3::basic_mixin']]],
+  ['begin',['begin',['../structranges_1_1v3_1_1tail__view.html#afbd352f7be8ee2bb4723d4c51c8cb375',1,'ranges::v3::tail_view::begin()'],['../structranges_1_1v3_1_1tokenize__view.html#ac91508867ba4a63438f97fc1b71db2db',1,'ranges::v3::tokenize_view::begin()'],['../structranges_1_1v3_1_1view__facade.html#a24887565918e6c02be6c5319a33cb62d',1,'ranges::v3::view_facade::begin()']]],
+  ['box',['box',['../classranges_1_1v3_1_1box.html#a2a20ee607718280bfe15a6ddd99a1552',1,'ranges::v3::box::box()'],['../classranges_1_1v3_1_1box_3_01_element_00_01_tag_00_01detail_1_1box__compress_1_1ebo_01_4.html#aa71a2007968cc7d628671ae44f804f8d',1,'ranges::v3::box&lt; Element, Tag, detail::box_compress::ebo &gt;::box()']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['get',['get',['../group__group-core.html#ga0a1b211c1926d91ee09c9b299dabff9c',1,'ranges::v3::get(sized_iterator_range&lt; I, S &gt; const &amp;p) -&gt; decltype(ranges::get&lt; N &gt;(static_cast&lt; iterator_range&lt; I, S &gt; const &amp; &gt;(p)))'],['../iterator__range_8hpp.html#ga0a1b211c1926d91ee09c9b299dabff9c',1,'ranges::v3::get(sized_iterator_range&lt; I, S &gt; const &amp;p)']]],
-  ['get_5funsafe',['get_unsafe',['../structranges_1_1v3_1_1dangling.html#af8b78625b49c9d7ddc96665b1f328e14',1,'ranges::v3::dangling']]]
+  ['indexed_5fdatum',['indexed_datum',['../structranges_1_1v3_1_1detail_1_1indexed__datum_3_01_t[_n]_00_01_index_01_4.html#a61a4c511b044c42e05775931725616e7',1,'ranges::v3::detail::indexed_datum&lt; T[N], Index &gt;::indexed_datum(meta::nil_={})'],['../structranges_1_1v3_1_1detail_1_1indexed__datum_3_01_t[_n]_00_01_index_01_4.html#ae0836d50c90725125f2494a4ee7993cf',1,'ranges::v3::detail::indexed_datum&lt; T[N], Index &gt;::indexed_datum(indexed_datum &amp;&amp;that)'],['../structranges_1_1v3_1_1detail_1_1indexed__datum_3_01_t[_n]_00_01_index_01_4.html#ae3ec1baebe46c4d65d3e0a8381e8a267',1,'ranges::v3::detail::indexed_datum&lt; T[N], Index &gt;::indexed_datum(indexed_datum const &amp;that)']]]
 ];
